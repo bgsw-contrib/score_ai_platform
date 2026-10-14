@@ -1,4 +1,4 @@
-**/Module.bazel
+**/MODULE.bazel
 .DS_Store
 .bazelversion
 .gitignore
